@@ -1,3 +1,3 @@
 # Summer Intern Evaluation
 
-Verus evaluation platform frontend for summer internship. 
+VerusBench evaluation platform frontend for summer internship. 
